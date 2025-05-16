@@ -1,0 +1,2 @@
+Hi! I'm Muhammad Ahtisham, and these are all the completed Python projects from Quarter 3, assigned by Sir Zia Khan.
+Each project represents a significant investment of time, dedication, and consistent learning. I’ve worked hard to understand core programming concepts and apply them practically through real-world examples. These projects not only improved my problem-solving skills but also helped me gain hands-on experience with Python development. I’m proud of the progress I’ve made and excited to keep growing as a developer.
